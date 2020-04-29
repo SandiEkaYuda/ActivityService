@@ -1,0 +1,10 @@
+<resources>
+    <string name="namaApp">Aplikasi Service</string>
+    <string name="Menit">Setiap 1 Menit</string>
+    <string name="Jam">Setiap 1 Jam</string>
+    <string name="Menit5">Setiap 5 Menit</string>
+    <string name="Menit30">Setiap 30 Menit</string>
+    <string name="Set">Set</string>
+    <string name="Unset">Unset</string>
+    <string name="Change">Ubah Wallpaper Setelan :</string>
+</resources>
